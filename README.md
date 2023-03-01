@@ -1,4 +1,4 @@
-# Problem sets solutions: Introduction to Computational Thinking and Data Science (MIT)
+### Problem sets solutions: Introduction to Computational Thinking and Data Science (MIT)
 
 This repository contains my solutions to the problem sets of this course (offered by John Guttag). Topics:
 
